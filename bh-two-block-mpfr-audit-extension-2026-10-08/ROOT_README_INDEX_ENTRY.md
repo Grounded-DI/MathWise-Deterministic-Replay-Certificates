@@ -1,7 +1,1 @@
-# MathWise-Deterministic-Replay-Certificates
-Deterministic proof-path replay certificates and source-level audit records from Grounded DI / MathWise DI². Not Lean kernel-verified unless explicitly stated.
-
-## Certificate index
-
 - [Two-Block BH MPFR Replay Certificate — Alpha-Interval Extension [0.00990, 0.01010]](bh-two-block-mpfr-audit-extension-2026-10-08/README.md): 256-bit MPFR replay package for a two-block Gaussian Benjamini–Hochberg construction; fixed-alpha asymptotic FDR violation, with witnesses, receipts, hashes, retained unsuccessful trials, and explicit verification limits. Not Lean kernel-verified.
-
