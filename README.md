@@ -35,3 +35,8 @@ The source repositories remain canonical. This repository adds a stable collecti
 - [Book 5 source record](book-5-mathwise-erdos-record/README.md): July 31, 2026 discovery spine.
 
 Read each folder README before treating a result as a claim. The collection preserves source classifications: fixed case, local replay, partial theorem, numerical checkpoint, bounded audit, source-level obstruction, historical experiment, or visual record.
+
+
+## Machine-readable PDF companion
+
+- [Riemann Hypothesis Beta-Delta Replay Obstruction Certificate — text](Riemann_Hypothesis_Beta_Delta_Replay_Obstruction_Certificate.md) · [source PDF](Riemann_Hypothesis_Beta_Delta_Replay_Obstruction_Certificate.pdf)
