@@ -2,7 +2,7 @@
 
 A curated index of Grounded DI / MathWise mathematical certificates, fixed-case proof records, numerical enclosures, source-level audits, and replay-obstruction records.
 
-The source repositories remain canonical. This repository adds a stable collection map, scope labels, exact source links, and selected preserved packages. A replay result, manifest, or hash establishes the recorded computation or file identity under its stated conditions; it does not by itself establish general mathematical truth, external review, priority, or Lean kernel verification.
+This collection maps each certificate to its source, scope, and available replay package. The linked repository for each result provides the controlling theorem statement, inputs, and verification record. Hashes identify the recorded files; the mathematical conclusion depends on the stated proof and checks.
 
 ## Fixed-case and exact certificates
 
@@ -34,7 +34,7 @@ The source repositories remain canonical. This repository adds a stable collecti
 - [SOURCE_INDEX.md](SOURCE_INDEX.md): canonical repositories, paths, commit anchors, classifications, and transfer state.
 - [Book 5 source record](book-5-mathwise-erdos-record/README.md): July 31, 2026 discovery spine.
 
-Read each folder README before treating a result as a claim. The collection preserves source classifications: fixed case, local replay, partial theorem, numerical checkpoint, bounded audit, source-level obstruction, historical experiment, or visual record.
+Each folder README identifies the precise result and its evidence classification, including fixed cases, partial theorems, numerical checkpoints, audits, and replay records.
 
 
 ## Machine-readable PDF companion
